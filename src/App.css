@@ -9,11 +9,44 @@ margin: 10em auto;
 padding: 20px 10px; 
 
 }
+
 .task {
+display: flex; 
+align-items: center;
+justify-content: space-between;
   background-color: white;
   padding: 1em; 
+  margin: 1em; 
+
 }
 
-task button{
-  background:  #30426A; 
+.completed{
+
+  background:  #2F887D; 
+  color:white;
+  border: none;
+  padding: 1em;
+ 
+}
+
+.remove{
+  align-self: baseline; 
+  background-color: #E36868;
+  color: white; 
+  border: none; 
+  padding: 0.5em; 
+}
+
+.create-task input[type=text]{
+  border:none;
+  padding: 1em; 
+}
+.create-task{
+  margin: 1em; 
+}
+
+.header{
+  font-size: larger;
+  margin: 1em;
+  text-transform: uppercase;
 }

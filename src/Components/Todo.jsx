@@ -35,15 +35,18 @@ export default function Todo() {
     }
     return (
         <div className="todo-container">
-            <div className="header"> ToDo Items</div>
+            <div className="header"> To-Do List</div>
             <div className="tasks">
                 {tasks.map((task, index) => (
                     <Task
                         task={task}
                         index={index}
-                        completeTask={completeTask}
                         removeTask={removeTask}
-                        key={index} />
+                        completeTask={completeTask}
+                        key={index}
+
+                    />
+
 
 
                 ))}
