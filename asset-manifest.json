@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Samina-tenso/kontroll_1/static/css/main.bda7be16.css",
+    "main.js": "/Samina-tenso/kontroll_1/static/js/main.145b2c3e.js",
+    "index.html": "/Samina-tenso/kontroll_1/index.html",
+    "main.bda7be16.css.map": "/Samina-tenso/kontroll_1/static/css/main.bda7be16.css.map",
+    "main.145b2c3e.js.map": "/Samina-tenso/kontroll_1/static/js/main.145b2c3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda7be16.css",
+    "static/js/main.145b2c3e.js"
+  ]
+}
