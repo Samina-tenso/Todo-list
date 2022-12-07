@@ -3,9 +3,6 @@ import Task from "./Tasks.jsx"
 import React, { useState } from "react"
 import CreateTask from "./CreateTask.jsx"
 
-
-
-
 export default function Todo() {
     const [tasks, setTasks] = useState([
         {
@@ -46,9 +43,6 @@ export default function Todo() {
                         key={index}
 
                     />
-
-
-
                 ))}
             </div >
             <div className="create-task">
