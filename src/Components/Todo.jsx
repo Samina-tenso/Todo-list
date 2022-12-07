@@ -41,7 +41,6 @@ export default function Todo() {
                         removeTask={removeTask}
                         completeTask={completeTask}
                         key={index}
-
                     />
                 ))}
             </div >
