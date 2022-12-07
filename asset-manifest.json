@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kontroll_1/static/css/main.bda7be16.css",
-    "main.js": "/kontroll_1/static/js/main.145b2c3e.js",
-    "index.html": "/kontroll_1/index.html",
-    "main.bda7be16.css.map": "/kontroll_1/static/css/main.bda7be16.css.map",
-    "main.145b2c3e.js.map": "/kontroll_1/static/js/main.145b2c3e.js.map"
+    "main.css": "/Todo-list/static/css/main.bda7be16.css",
+    "main.js": "/Todo-list/static/js/main.145b2c3e.js",
+    "index.html": "/Todo-list/index.html",
+    "main.bda7be16.css.map": "/Todo-list/static/css/main.bda7be16.css.map",
+    "main.145b2c3e.js.map": "/Todo-list/static/js/main.145b2c3e.js.map"
   },
   "entrypoints": [
     "static/css/main.bda7be16.css",
